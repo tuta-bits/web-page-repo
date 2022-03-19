@@ -29,3 +29,18 @@ h2
         {
            text-align: center; 
         }
+body
+        {
+            background-color: lightgray;
+        }
+hr
+        {
+            border-color: rgb(10, 181, 233);
+            border-style: ridge;
+            border-width: 10px 5px 5px 10px;
+        }
+mark
+        {
+           color: rgb(243, 9, 40); 
+           background-color: aqua;
+        }
